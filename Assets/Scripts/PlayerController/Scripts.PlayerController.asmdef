@@ -1,0 +1,15 @@
+{
+    "name": "Scripts.PlayerController",
+    "references": [
+        "GUID:d8b5e8482f0c2b14a972eddee86db253"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

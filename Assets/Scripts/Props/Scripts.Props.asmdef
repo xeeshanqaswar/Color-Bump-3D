@@ -1,0 +1,18 @@
+{
+    "name": "Scripts.Props",
+    "references": [
+        "GUID:d8b5e8482f0c2b14a972eddee86db253",
+        "GUID:412d008fdd288c34fae2e6a1a861ea13",
+        "GUID:a6048807d73d7164281153e58d55eacb",
+        "GUID:b266199decaa4394b9122dec82d5ea4d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
